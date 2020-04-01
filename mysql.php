@@ -6,7 +6,7 @@ header('Content-type: text/plain');
 $DB_HOST = 'localhost';
 $DB_PORT = 3306; // 3306 is default MySQL port
 $DB_USER = 'root';
-$DB_PASS = 'alan'; // blank or password (if you set one)
+$DB_PASS = '123456789'; // blank or password (if you set one)
 $DB_NAME = 'mysql'; // database instance name
 
 // Open connection (all args can be optional or NULL!)
